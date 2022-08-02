@@ -2,7 +2,6 @@ package model
 
 import (
 	"github.com/wickedknock/Bookstore-Mysql/pkg/config"
-	"github.com/wickedknock/pkg/config"
 	"gorm.io/gorm"
 )
 
